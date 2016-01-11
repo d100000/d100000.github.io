@@ -1,7 +1,7 @@
 # Githubpages 首页
 
 ## 入口
-**首页入口：[www.bobdong.cn](www.bobdong.cn)**  
+**首页入口：[www.bobdong.cn](http://www.bobdong.cn)**  
 关联域名空间，www.bobdong.cn，实现该目录下转跳的实现，同时，所有分目录下的网页都在该目录下。
 
 ## 多级目录实现
