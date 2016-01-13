@@ -1,0 +1,259 @@
+<html><head><style type="text/css" id="277430652690"></style><style type="text/css" id="277430652690"></style><style type="text/css" id="277430652690"></style>
+	<title> 董小保的简历</title>
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<!--fonts-->
+		<link href="http://fonts.useso.com/css?family=Raleway:400,100,200,300,500,600,700,800,900" rel="stylesheet" type="text/css">
+		<link href="http://fonts.useso.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic" rel="stylesheet" type="text/css">
+	<!--//fonts-->
+		<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+		<link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+	<!-- for-mobile-apps -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="keywords" content="Kong Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+		Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design">
+		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+	<!-- //for-mobile-apps -->
+	<!-- js -->
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+	<!-- js -->
+	<!-- start-smooth-scrolling -->
+		<script type="text/javascript" src="js/move-top.js"></script>
+		<script type="text/javascript" src="js/easing.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+				});
+			});
+		</script>
+	<!-- start-smooth-scrolling -->
+
+<style type="text/css" id="276250074284"></style><style type="text/css" id="276250074284"></style><style type="text/css" id="277430652690"></style><style type="text/css" id="277430652690"></style></head><style type="text/css" id="277430652690"></style>
+<body class="" style="
+    font-family: 微软雅黑;
+">
+<!-- banner -->
+<div class="banner" id="home">
+	<div class="container"> 
+		<div class="top-header row">
+			<script src="js/classie.js"></script>
+			<!---start-click-drop-down-menu----->
+			        <!----start-dropdown--->
+			         <script type="text/javascript">
+						var $ = jQuery.noConflict();
+							$(function() {
+								$('#activator').click(function(){
+									$('#box').animate({'top':'0px'},900);
+								});
+								$('#boxclose').click(function(){
+								$('#box').animate({'top':'-1000px'},900);
+								});
+							});
+							$(document).ready(function(){
+							//Hide (Collapse) the toggle containers on load
+							$(".toggle_container").hide(); 
+							//Switch the "Open" and "Close" state per click then slide up/down (depending on open/close state)
+							$(".trigger").click(function(){
+								$(this).toggleClass("active").next().slideToggle("slow");
+									return false; //Prevent the browser jump to the link anchor
+							});
+												
+						});
+					</script>
+			<!---//End-click-drop-down-menu----->
+			<div class="clearfix"> </div>
+		</div>
+<div class="banner-info" >
+			<div class="banner-left">
+				<img src="images/1.png" alt="">
+			</div>
+			<div class="banner-right">
+				<h1>董淑保</h1>
+				<div class="border"></div>
+				<h2>开 发 工 程 师</h2>
+				<a href="https://github.com/d100000/MyResume/blob/master/bobdongresume.pdf?raw=true">下 载 董 小 保 的 简 历</a>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+<!--/header-banner-->
+<div class="copyrights">Maintrain by <a href="http://www.bobdong.cn/">Bob Dong</a></div>
+<!--about-->
+<div class="about text-center" id="about">
+	<div class="container">
+		<h3>ABOUT ME</h3>
+		<div class="strip text-center"><img src="images/about.png" alt=" "></div>
+		<p>董淑保（董小保），毕业于郊区的一所医学类院校——广东医学院，主修（医学）信息管理与信息系统。
+			大学期间，担任过学生会主席，经历了学生会的种种事迹。那一年他意识到学生会不是他的归属，于是
+			他毅然辞去学生会主席的职务，并且拒绝了其他组织的职位邀请，决定做一名普通的大学生。
+			大二，他沉寂了一年，他觉得平淡的人生不是他想要的，一个有理想有抱负的人不应该过这样的生活，
+			那年，他参加了学校的职业规划大赛，并且在这个医学为主导的院校中拿下了三等奖。那一年，他终于
+			知道了真正的自己。接下来的一年，他成为了学校第一届创新创业训练中心培训部的部长，带领着创业
+			团队在实验室日夜奋斗，在校级软件设计大赛中，团队勇夺二，三等奖，并且队员被前来做评委的东软
+			总监相中，拿到了东软实习的offer。大四，通过严格面试，他成为了金蝶医疗软件的一名开发工程师，
+			之后故事在新的一页的中续写…………</p>
+		
+	</div>
+</div>
+<!--//about-->
+
+<!--my skill-->
+<div class="my-skills text-center">
+	<div class="container">
+		<h3>MY SKILLS</h3>
+		<div class="strip text-center"><img src="images/skill.png" alt=" "></div>
+		<div class="skill-grids">
+					<div class="col-md-3 skills-grid text-center">
+						<div class="circle" id="circles-1"><div class="circles-wrp" style="position:relative; display:inline-block;"><svg width="160" height="160"><path fill="transparent" stroke="#6ed4c0" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 79.89582650464463 5.000072347482458 Z"></path><path fill="transparent" stroke="#ffffff" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 0 1 124.17351291284737 140.61106134146232 "></path></svg><div class="circles-text-wrp" style="position:absolute; top:0; left:0; text-align:center; width:100%; font-size:56px; height:160px; line-height:160px;"><span class="circles-number"><span class="circles-number">40</span></span><span class="circles-text">%</span></div></div></div>
+						<p>Unity3D</p>
+					</div>
+					
+					<div class="col-md-3 skills-grid text-center">
+						<div class="circle" id="circles-3"><div class="circles-wrp" style="position:relative; display:inline-block;"><svg width="160" height="160"><path fill="transparent" stroke="#6ed4c0" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 79.89582650464463 5.000072347482458 Z"></path><path fill="transparent" stroke="#ffffff" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 35.98377886071055 140.7253841207873 "></path></svg><div class="circles-text-wrp" style="position:absolute; top:0; left:0; text-align:center; width:100%; font-size:56px; height:160px; line-height:160px;"><span class="circles-number"><span class="circles-number">60</span></span><span class="circles-text">%</span></div></div></div>
+						<p>jAVA</p>
+					</div>
+					
+					<div class="col-md-3 skills-grid text-center">
+						<div class="circle" id="circles-5"><div class="circles-wrp" style="position:relative; display:inline-block;"><svg width="160" height="160"><path fill="transparent" stroke="#6ed4c0" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 79.89582650464463 5.000072347482458 Z"></path><path fill="transparent" stroke="#ffffff" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 8.65335476362499 56.87736577474685 "></path></svg><div class="circles-text-wrp" style="position:absolute; top:0; left:0; text-align:center; width:100%; font-size:56px; height:160px; line-height:160px;"><span class="circles-number"><span class="circles-number">80</span></span><span class="circles-text">%</span></div></div></div>
+						<p>c #</p>
+					</div>
+					<div class="col-md-3 skills-grid text-center">
+						<div class="circle" id="circles-6"><div class="circles-wrp" style="position:relative; display:inline-block;"><svg width="160" height="160"><path fill="transparent" stroke="#6ed4c0" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 79.89582650464463 5.000072347482458 Z"></path><path fill="transparent" stroke="#ffffff" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 35.85118044960576 19.370949765753977 "></path></svg><div class="circles-text-wrp" style="position:absolute; top:0; left:0; text-align:center; width:100%; font-size:56px; height:160px; line-height:160px;"><span class="circles-number"><span class="circles-number">90</span></span><span class="circles-text">%</span></div></div></div>
+						<p>P P T</p>
+					</div>
+					<div class="clearfix"> </div>
+				 <script type="text/javascript" src="js/circles.js"></script>
+					         <script>
+								var colors = [
+										['#6ed4c0', '#ffffff'], ['#6ed4c0', '#ffffff'], ['#6ed4c0', '#ffffff'], ['#6ed4c0', '#ffffff'], ['#6ed4c0', '#ffffff'], ['#6ed4c0', '#ffffff']
+									];
+								for (var i = 1; i <= 7; i++) {
+									var child = document.getElementById('circles-' + i),
+										percentage = 30 + (i * 10);
+										
+									Circles.create({
+										id:         child.id,
+										percentage: percentage,
+										radius:     80,
+										width:      10,
+										number:   	percentage / 1,
+										text:       '%',
+										colors:     colors[i - 1]
+									});
+								}
+						
+				</script>
+		</div>
+	</div>	
+</div>
+<!--//my skill-->
+
+<!--education-->
+<div class="education text-center">
+	<div class="container">
+		<div class="edu-info">
+			<h3>EDUCATION&amp;EXPERIENCE</h3>
+		</div>
+		<div class="strip text-center"><img src="images/edu.png" alt=" "></div>
+		<div class="edu-grids">
+			<div class="col-md-4 edu-grid">
+				<p>2013 - 2014</p><span>Project</span>
+				<img src="images/arrow.png" alt="">
+				<div class="edu-border">
+					<div class="edu-grid-master">
+						<h3>实习分配系统</h3>
+						<h4>课题项目</h4>
+					</div>
+					<div class="edu-grid-info">
+						<h5>主要用于在校学生的实习分配任务，基于b/s端开发
+							在mvc的基础上封装了数据处理层，教师端和学生端分离，
+							教师端经过双向加密，确保数据安全。</h5>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 edu-grid">
+				<p>2014 - 2015</p><span>移动开发</span>
+				<img src="images/arrow.png" alt="">
+				<div class="edu-border">
+					<div class="edu-grid-master">
+						<h3><a href="https://raw.githubusercontent.com/d100000/MyResume/master/Utility/WeTalk5.1.apk">W e T a l k A P P</a></h3>
+						<h4>IM即时通讯的语音识别软件</h4>
+					</div>
+					<div class="edu-grid-info">
+						<h5>在大三一年的软件设计大赛中，担任组长
+							角色，制定软件的方向与主要技术实现，集
+							成了多种第三方的SDK，最终产品获得
+							二等奖</h5>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 edu-grid">
+				<p>2015 - 2016</p><span> 实 习 </span>
+				<img src="images/arrow.png" alt="">
+				<div class="edu-border">
+					<div class="edu-grid-master">
+						<h3>.net 开发工程师</h3>
+						<h4>金蝶医疗软件科技有限公司</h4>
+					</div>
+					<div class="edu-grid-info">
+						<h5>大四实习，在金蝶集团全资子公司金蝶医疗
+							实习，实习期间参与数据转化器组件的研发，
+							用到了三层架构，EF,mvvm，多线程并发等</h5>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	
+</div>
+<!--//education-->
+<div class="strip-border"><p></p></div>
+
+<!--portfolio-->
+<div class="gallery-section text-center" id="portfolio" style="
+    max-height: 400px;
+">
+	<div class="container">
+		<h3><a href="github.bobdong.cn">PROJECT</a></h3>
+		<div class="strip text-center"><img src="images/port.png" alt=" "></div>
+		<p>最近的一次可以公开的项目就是自己改进的Log模块了吧。在博客园得到了很多大神的帮助
+			，在多线程操作，线程阻塞，资源竞争方面有了一次较为彻底的实践经验，虽说项目小，可是
+			涉及到的东西并不少。这是我第一次如此认真的做一个如此小的组件。同时也第一次如此真实
+			的意识到知识分享的重要性。希望将来的工作中能有一个较为开放的知识分享平台，我觉得这样
+			对于一个程序员来说进步是最快的。</p>
+		<div class="gallery-grids">		
+		</div>
+	</div>
+</div>
+<!--resume-->
+<div class="resume text-center">
+	<div class="container">
+		<div class="strip text-center"><a href="#"><img src="images/down.png" alt=" "></a></div>
+		<div class="down"><a href="https://github.com/d100000/MyResume/blob/master/bobdongresume.pdf?raw=true">下 载 董 小 保 的 简 历</a></div>
+	</div>
+</div>
+<!--//resume-->
+
+<!--footer-->
+<div class="footer" style="
+    font-family: 微软雅黑;
+">
+	<div class="container">
+		<p>如果您想继续了解更多有关于董小保的信息，请访问的<a href="http://www.bobdong.cn">董小保的主页</a>-2015.12。</p>
+		</div>
+</div>
+<!--//footer-->
+<!-- here stars scrolling icon -->
+	<script type="text/javascript">
+		$(document).ready(function() {		
+			$().UItoTop({ easingType: 'easeOutQuart' });
+			});
+	</script>
+<!-- //here ends scrolling icon -->
+<a href="#" id="toTop" style="display: block;"><span id="toTopHover" style="opacity: 0;"></span><span id="toTopHover" style="opacity: 0;"></span><span id="toTopHover" style="opacity: 0;"></span><span id="toTopHover" style="opacity: 0;"></span><span id="toTopHover" style="opacity: 0;"></span><span id="toTopHover" style="opacity: 0;"></span><span id="toTopHover" style="opacity: 0;"></span><span id="toTopHover" style="opacity: 0;"></span>To Top</a><a href="#" id="toTop">To Top</a><a href="#" id="toTop">To Top</a><a href="#" id="toTop">To Top</a>
+	
+	<a href="#" id="toTop">To Top</a><a href="#" id="toTop">To Top</a><a href="#" id="toTop">To Top</a><a href="#" id="toTop">To Top</a></body></html>
