@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style type="text/css">
+            *{
+                margin:0;
+                padding: 0;
+            }
+
+            body{
+                background-color: #888888;
+            }
+
+            .container{
+                margin: 60px auto;
+                width: 700px;
+                height: 450px;
+                position: relative;
+                z-index: 3;
+
+            }
+
+            .container img{
+                margin: 5px 5px 5px 5px;
+                padding: 5px 5px 5px;
+                background: white;
+                border: 1px solid white;
+                box-shadow: 2px 2px 2px black;
+                transition: all 0.3s ease-in ;
+            }
+
+            .container img:hover{
+                z-index: 1;
+                transform: scale(2.0);
+                position: relative;
+            }
+
+            .pic{
+                width: 300px;
+                height: 200px;
+            }
+        </style>
+        <script src="jquery.min.js"></script>
+        <script>
+            function get() {
+                $.ajax({
+                    type: 'get',
+                    url: 'http://apis.baidu.com/txapi/mvtp/meinv',
+                    data: {
+                        num: 30
+                    }, headers: {
+                        apikey: '253aecb000f46a13f9ccf56054580808'
+                    }
+                    , success: function (data, textStatus, jqXHR) {
+                        var list = data.newslist;
+                        for (var i = 0; i < list.length; i++) {
+                            var str='<img class="pic pic'+i+'" src="'+list[i].picUrl+'">';
+                            document.getElementById('image_list').innerHTML+=str;
+                        }
+                    }, error: function (jqXHR, textStatus, errorThrown) {
+                        
+                    }
+                })
+            }
+            get();
+        </script>
+    </head>
+    <body>
+        <div id="image_list" class="container">';
+            
+        </div>
+    </body>
+</html>
